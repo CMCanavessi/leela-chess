@@ -101,7 +101,7 @@ namespace {
   }
 
 void printVersion() {
-  myprintf_so("id name lczero " PROGRAM_VERSION "\nid author The LCZero Authors\nuciok\n");
+  myprintf_so("id name Leela Chess Zero " PROGRAM_VERSION "\nid author The LCZero Authors\nuciok\n");
 }
 
 // Return the score from the self-play game
